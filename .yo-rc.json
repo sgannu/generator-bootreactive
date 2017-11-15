@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Srinivas Gannu",
+      "authorEmail": "srinivas.gannu@gmail.com",
+      "authorUrl": "sgannu.github.io"
+    }
+  }
+}
