@@ -1,8 +1,8 @@
 {
-  "name": "generator-bootreactive",
+  "name": "generator-jvm-microservices",
   "version": "0.0.0",
   "description": "Spring boot micro-service with Spring5 Reactive programming model",
-  "homepage": "https://github.com/sgannu/generator-bootreactive.git",
+  "homepage": "https://github.com/sgannu/generator-jvm-microservices.git",
   "author": {
     "name": "Srinivas Gannu",
     "email": "srinivas.gannu@gmail.com",
