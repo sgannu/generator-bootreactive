@@ -1,13 +1,14 @@
-# generator-bootreactive [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> Spring boot micro-service with Spring5 Reactive programming model
+# generator-jvm-microservice [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+> JVM based Microservices project template generator
+  bootreactive : Spring boot micro-service with Spring5 Reactive programming model
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-bootreactive using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-jvm-microservices using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-bootreactive
+npm install -g generator-jvm-microservices
 ```
 
 Then generate your new project:
